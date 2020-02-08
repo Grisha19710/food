@@ -1,0 +1,19 @@
+h2 {
+	color: #E71818;
+	font-family: "Times New Roman", Georgia, Serif;
+	line-height: 1.3em;
+}
+
+p {
+	color: #F55214;
+	font-family: "Times New Roman", Georgia, Serif;
+	line-height: 1.3em;
+}
+
+.rounded1 {
+	list-style-type: circle;
+}
+	
+.rounded2 {
+	list-style-type: decimal;
+}
